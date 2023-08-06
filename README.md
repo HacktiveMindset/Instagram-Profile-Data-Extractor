@@ -5,6 +5,8 @@
 
 ![Ide](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
+https://github.com/HacktiveMindset/Instagram-Profile-Data-Extractor/assets/141541920/9d14f114-ddb4-4728-9828-e56a15bd6b29
+
 The Instagram Profile Data Extractor is a Python-based open-source project that allows users to extract and analyze public profile data from Instagram. The tool utilizes the `Instaloader` library to fetch key profile information, such as username, followers, posts, profile pictures, and highlights.
 
 ## Features
